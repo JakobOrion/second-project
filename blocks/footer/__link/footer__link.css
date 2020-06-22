@@ -4,6 +4,8 @@
     font-size: 18px;
     font-weight: normal;
     color: #fff;
+    opacity: 1;
+    transition: opacity .3s linear;
   }
 
   .footer__link:hover {
